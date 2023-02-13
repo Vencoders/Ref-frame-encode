@@ -1,4 +1,4 @@
-# Ref-frame-encode
+# Neural texture transfer assisted video coding with adaptive up-sampling(Signal Processing: Image Communication, 2022)
 Neural texture transfer assisted video coding with adaptive up-sampling(Signal Processing: Image Communication, 2022)
 ## Pre-requisites
 
