@@ -1,5 +1,5 @@
 # Ref-frame-encode
-papers with code
+Neural texture transfer assisted video coding with adaptive up-sampling(Signal Processing: Image Communication, 2022)
 ## Pre-requisites
 
 - python3.6
