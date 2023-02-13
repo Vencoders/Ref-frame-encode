@@ -1,5 +1,5 @@
 # Neural texture transfer assisted video coding with adaptive up-sampling(Signal Processing: Image Communication, 2022)
-Paper Link:https://www.sciencedirect.com/science/article/abs/pii/S0923596522000777
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000777)
 ## Pre-requisites
 
 - python3.6
